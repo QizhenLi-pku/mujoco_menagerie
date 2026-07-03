@@ -153,7 +153,7 @@
                 <!-- <geom class="fingertip_collision" group="1"/> -->
                 <geom type="mesh" mesh="ffalign" rgba="0.15 0.85 0.25 1" contype="0" conaffinity="0" group="2"/>
                 <geom name="ff_sensor_col" type="box" pos="-0.0010 0.00005 0.0319" size="0.0105 0.0135 0.0159" group="0" rgba="1 0 0 0.45" mass="0"/>
-                <geom name="ff_silicone_col" type="box" pos="0.0110 0.00005 0.0319" size="0.0015 0.0105 0.0145" group="0" rgba="0 0 1 0.35" mass="0"/>
+                <geom name="ff_silicone_col" type="box" pos="0.0110 0.00005 0.0319" size="0.0015 0.0101 0.0127" group="0" rgba="0 0 1 0.35" mass="0"/>
               </body>
             </body>
           </body>
@@ -181,7 +181,7 @@
                 <!-- <geom class="fingertip_collision" group="1"/> -->
                 <geom type="mesh" mesh="ffalign" rgba="0.15 0.85 0.25 1" contype="0" conaffinity="0" group="2"/>
                 <geom name="mf_sensor_col" type="box" pos="-0.0010 0.00005 0.0319" size="0.0105 0.0135 0.0159" group="0" rgba="1 0 0 0.45" mass="0"/>
-                <geom name="mf_silicone_col" type="box" pos="0.0110 0.00005 0.0319" size="0.0015 0.0105 0.0145" group="0" rgba="0 0 1 0.35" mass="0"/>
+                <geom name="mf_silicone_col" type="box" pos="0.0110 0.00005 0.0319" size="0.0015 0.0101 0.0127" group="0" rgba="0 0 1 0.35" mass="0"/>
               </body>
             </body>
           </body>
@@ -209,7 +209,7 @@
                 <!-- <geom class="fingertip_collision" group="1"/> -->
                 <geom type="mesh" mesh="ffalign" rgba="0.15 0.85 0.25 1" contype="0" conaffinity="0" group="2"/>
                 <geom name="rf_sensor_col" type="box" pos="-0.0010 0.00005 0.0319" size="0.0105 0.0135 0.0159" group="0" rgba="1 0 0 0.45" mass="0"/>
-                <geom name="rf_silicone_col" type="box" pos="0.0110 0.00005 0.0319" size="0.0015 0.0105 0.0145" group="0" rgba="0 0 1 0.35" mass="0"/>
+                <geom name="rf_silicone_col" type="box" pos="0.0110 0.00005 0.0319" size="0.0015 0.0101 0.0127" group="0" rgba="0 0 1 0.35" mass="0"/>
               </body>
             </body>
           </body>
@@ -237,7 +237,7 @@
                 <!-- <geom class="thumbtip_collision" group="1"/> -->
                 <geom name="th_tip_tacthru_check_visual" type="mesh" mesh="th_tip_tacthru_check_mesh" rgba="0.15 0.85 0.25 1" contype="0" conaffinity="0" group="2"/>
                 <geom name="th_sensor_col" type="box" pos="-0.0010 0.00005 0.0475" size="0.0105 0.0135 0.0159" group="0" rgba="1 0 0 0.45" mass="0"/>
-                <geom name="th_silicone_col" type="box" pos="0.0110 0.00005 0.0475" size="0.0015 0.0105 0.0145" group="0" rgba="0 0 1 0.35" mass="0"/>
+                <geom name="th_silicone_col" type="box" pos="0.0110 0.00005 0.0475" size="0.0015 0.0101 0.0127" group="0" rgba="0 0 1 0.35" mass="0"/>
               </body>
             </body>
           </body>
